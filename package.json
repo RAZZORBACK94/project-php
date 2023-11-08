@@ -1,0 +1,12 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "font-awesome": "^4.7.0",
+    "normalize-scss": "^7.0.1",
+    "normalize.css": "^8.0.1",
+    "sass": "^1.66.1"
+  }
+}
